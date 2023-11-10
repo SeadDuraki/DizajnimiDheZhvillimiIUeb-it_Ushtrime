@@ -1,1 +1,1 @@
-# DizajnimiDheZhvillimiIUeb-it_Ushtrime
+Kodet per detyra shtepise ne landen Dizajnimi dhe Zhvillimi i Ueb-it
